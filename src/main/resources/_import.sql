@@ -1,0 +1,7 @@
+INSERT INTO cozinha(nome) VALUES ('TAILANDESA')
+INSERT INTO cozinha(nome) VALUES ('BRASILEIRA')
+INSERT INTO cozinha(nome) VALUES ('CHINEZA')
+INSERT INTO cozinha(nome) VALUES ('EGÍPCIA')
+INSERT INTO cozinha(nome) VALUES ('COLOMBIANA')
+INSERT INTO cozinha(nome) VALUES ('RUSSA')
+INSERT INTO cozinha(nome) VALUES ('ITALIANA')
